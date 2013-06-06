@@ -1,0 +1,5 @@
+D:\Project\InsuranceConnect\InsuranceConnect\bin\InsuranceConnect.dll
+D:\Project\InsuranceConnect\InsuranceConnect\bin\InsuranceConnect.pdb
+D:\Project\InsuranceConnect\InsuranceConnect\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\InsuranceConnect\InsuranceConnect\obj\Debug\InsuranceConnect.dll
+D:\Project\InsuranceConnect\InsuranceConnect\obj\Debug\InsuranceConnect.pdb

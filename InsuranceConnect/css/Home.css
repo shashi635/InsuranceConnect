@@ -1,0 +1,14 @@
+﻿body {
+}
+.TopicOwner{font-size: x-small; font-weight:bold;}
+
+.TopicDate{ font-size: x-small; }
+
+.mediunFont{font-size: smaller;}
+.smallFont{font-size: x-small; font-weight:bold;}
+
+.Topic{color:#589BED;}
+
+.blue {color:#589BED;}
+
+.user {text-align:right; font-size:smaller; font-weight:bold;}
